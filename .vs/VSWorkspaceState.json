@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.next\\cache\\webpack",
+    "\\.next\\cache\\webpack\\client-development",
+    "\\.next\\cache\\webpack\\client-development-fallback",
+    "\\.next\\cache\\webpack\\client-production",
+    "\\.next\\cache\\webpack\\server-development",
+    "\\public"
+  ],
+  "SelectedNode": "\\.next",
+  "PreviewInSolutionExplorer": false
+}
