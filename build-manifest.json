@@ -1,0 +1,106 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-5cd94c89d3acac5f.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/yrjBF5AgHqqq7jUZbAOXY/_buildManifest.js",
+    "static/yrjBF5AgHqqq7jUZbAOXY/_ssgManifest.js",
+    "static/yrjBF5AgHqqq7jUZbAOXY/_middlewareManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/index-3604f6ca6428e85b.js"
+    ],
+    "/404": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/404-64d86b488a0cd127.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/_app-6f58f732c1bdb589.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/_error-2280fa386d040b66.js"
+    ],
+    "/discover": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/discover-1b79efed2b8f6ac0.js"
+    ],
+    "/discover/book": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/discover/book-21e634aa120aa1a2.js"
+    ],
+    "/discover/book2": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/discover/book2-45c2ee64f079eddb.js"
+    ],
+    "/discover/book3": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/discover/book3-70573624d51a9a0b.js"
+    ],
+    "/discover/book4": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/discover/book4-a12730bb55885ab1.js"
+    ],
+    "/discover/book5": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/discover/book5-b6e2da94cebc4062.js"
+    ],
+    "/discover/book6": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/discover/book6-1120d6e177bcc0fc.js"
+    ],
+    "/discover/book7": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/discover/book7-57c08ea4064e4413.js"
+    ],
+    "/discover/book8": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/discover/book8-61d5884011ed7e61.js"
+    ],
+    "/groups": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/ae51ba48-0e9a280f8cde8533.js",
+      "static/chunks/pages/groups-af46517b8e22e984.js"
+    ],
+    "/posts": [
+      "static/chunks/webpack-f8fe1f0eb2299c5d.js",
+      "static/chunks/framework-8957c350a55da097.js",
+      "static/chunks/main-7e73d61bce33e887.js",
+      "static/chunks/pages/posts-d60d08c5c033c2eb.js"
+    ]
+  },
+  "ampFirstPages": []
+}
